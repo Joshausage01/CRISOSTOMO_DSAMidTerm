@@ -73,4 +73,4 @@ After setting up the prerequisite apps we can proceed with setting up React JS.
     - Lastly, open the React project in your code editor by typing in `code .` at the command prompt.
 
 > [!IMPORTANT]
-> There are various ways to intall and set up React JS, the method I included here is the "traditional" way and the React team does not recommend using it anymore. [Here is the complete documentation of other way of intalling React.](https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/)
+> There are various ways to intall and set up React JS, the method I included here is the "traditional" way and the React team does not recommend using it anymore. [Here is a documentation of the other way of installing React.](https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/)
