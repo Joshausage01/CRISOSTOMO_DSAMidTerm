@@ -37,5 +37,3 @@ Download these following softwares before installing React JS:
 - **Code Editor**: Install any code editor that can compile React JS. A good code editor recommended for React development is [Visual Studio Code.](https://code.visualstudio.com/download)
 
 After setting up the prerequisite apps we can proceed with setting up React JS.
-
-
