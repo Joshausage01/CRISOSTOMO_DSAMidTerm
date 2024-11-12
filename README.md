@@ -30,10 +30,47 @@ The purpose of React JS is to make it easier to build fast, interactive, and dyn
 
 ### *Prerequisite Applications*
 
-Download these following softwares before installing React JS:
+Download and install these following softwares before installing React JS:
 
 - **Node.js**: You have to install Node first because React.js is a JavaScript library, and Node.js is a JavaScript runtime environment that allows you to run JavaScript on the server side. [Download Node.js here!](https://nodejs.org/en)
 
 - **Code Editor**: Install any code editor that can compile React JS. A good code editor recommended for React development is [Visual Studio Code.](https://code.visualstudio.com/download)
 
 After setting up the prerequisite apps we can proceed with setting up React JS.
+
+### Step-by-step React JS Set Up✨
+
+1. **Installation of Node.js** and **NPM (Node Package Manager)**
+    - Verify installation in the command prompt:
+
+      ```bash
+      node -v
+      npm -v
+      ```
+
+2. **Install React Js**
+    - Using ***CRA (create-react-app)***: Still in your command prompt window, navigate to the directory that you want to use in creating your React project. To do this, type `cd [directory name]` then click enter.
+        - Example:
+
+          ```bash
+          cd documents
+          ```
+
+        - `cd documents` command to go to documents directory.
+
+    - In the documents directory (or wherever you're creating your project), create a folder that you will be using to create your React app. Type `mkdir [folder name]` then navigate to the newly created directory using `cd [newly created folder name]`.
+    - In the newly created folder directory, type in `npx create-react-app [project name of your choice]`, and then wait until your React project is completely created.
+        - Example:
+
+          ```bash
+          npx create-react-app react-app-ko-ito
+          ```
+
+        > [!NOTE]
+        > When naming a project for React JS, the name of the project cannot contain any uppercase letters.
+
+3. **Open Project in the Code Editor**
+    - Lastly, open the React project in your code editor by typing in `code .` at the command prompt.
+
+> [!IMPORTANT]
+> There are various ways to intall and set up React JS, the method I included here is the "traditional" way and the React team does not recommend using it anymore. [Here is the complete documentation of other way of intalling React.](https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/)
